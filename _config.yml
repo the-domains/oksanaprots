@@ -1,0 +1,28 @@
+name: oksanaprots
+favicon: null
+layout_spectrum: 0.9903213700745255
+typography_spectrum: 0.13183236843906343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.035389303462579846
+  lightness: 0.6292793394532055
+  saturation: 0.7055423692800105
+  rhythmicContrast: 0.43274649302475154
+purpose: []
